@@ -5,7 +5,7 @@ Currently Learning Selenium with Java through a Udemy course - https://www.udemy
 
 *Automated test using the Chrome, Firefox and Edge browsers
 
-- Understanding Selectors/Locators in detail
+- Understanding Selectors/Locators (CSS/Xpath)
 
 - How we can interact with various elements found across the web
 
