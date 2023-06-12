@@ -1,6 +1,8 @@
 # SeleniumWithJava
 Currently Learning Selenium with Java through a Udemy course - https://www.udemy.com/course/selenium-webdriver-java-using-real-examples/
 
+This is still inprogress however this is what i am going to working on
+
 
 
 *Automated test using the Chrome, Firefox and Edge browsers
