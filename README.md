@@ -20,6 +20,8 @@ Currently Learning Selenium with Java through a Udemy course - https://www.udemy
 - Page Object Model - learn how to follow good design practices that are maintainable
 
 
+------------------------------------------------------------------------------------------------
+
 *Building a framework from scratch in easy to follow steps*
 
 How to achieve Parallel Execution using Thread Local
